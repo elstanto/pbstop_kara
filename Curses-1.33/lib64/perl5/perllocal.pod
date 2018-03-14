@@ -1,0 +1,22 @@
+=head2 Thu Jan 28 15:33:04 2016: C<Module> L<Curses|Curses>
+
+=over 4
+
+=item *
+
+C<installed into: /users/ls00181/Curses-1.33/share/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
